@@ -1,3 +1,15 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: RAJA SANJAY CH
+
+INTERN ID: CTIS0570
+
+DOMAIN: UI/UX DESIGN
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH KUMAR
+
 # website-landing-page
 This code creates a static web page that visually resembles the Google search homepage in dark mode. It uses HTML to structure the page into a header, main content area, and footer, and CSS to apply styling such as dark background colors, centered alignment, rounded search bar, buttons, and responsive layout. The page includes navigation links, a Google-style logo, a search input box with icons, action buttons, language options, and a footer with region and policy links. The design is responsive and focuses only on appearance, without any real search functionality or backend logic.
 No real search functionality
