@@ -43,6 +43,6 @@ Ideal for understanding Flexbox, alignment, and basic UI design concepts.
 No external framework dependency
 The page works without Bootstrap, React, or other libraries.
 
-Conclusion (Optional for Exams)
+ * Conclusion *
 
 This code is a static UI replica suitable for learning and demonstration purposes, whereas the original Google homepage is a fully functional, dynamic, and AI-powered web application.
